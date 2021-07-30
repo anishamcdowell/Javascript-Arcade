@@ -1,0 +1,23 @@
+{
+  "name": "Javascript-Arcade",
+  "version": "1.0.0",
+  "description": "Mini games built with Javascript collected in a single page application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishamcdowell/Javascript-Arcade.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anishamcdowell/Javascript-Arcade/issues"
+  },
+  "homepage": "https://github.com/anishamcdowell/Javascript-Arcade#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
